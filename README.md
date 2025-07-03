@@ -35,7 +35,7 @@ A responsive calorie tracking web app built with vanilla JavaScript as part of f
 
 ## 🌐 Live Demo
 
-[Try it online!](https://your-username.github.io/calorie-counter)
+[Try it online!](https://abdulrahmanfrontend.github.io/fcc-calorie-counter/)
 
 ## 🤝 Contributing
 
