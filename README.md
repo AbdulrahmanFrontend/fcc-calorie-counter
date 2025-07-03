@@ -3,7 +3,7 @@
 [![freeCodeCamp Logo](https://www.freecodecamp.org/learn/)]
 [![HTML5](https://www.w3schools.com/html/default.asp)]
 [![CSS3](https://www.w3schools.com/css/default.asp)]
-[![JavaScript](https://www.w3schools.com/js/)]
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://www.w3schools.com/js/)
 
 A responsive calorie tracking web app built with vanilla JavaScript as part of freeCodeCamp's curriculum.
 
