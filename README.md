@@ -1,9 +1,9 @@
 # Calorie Counter - freeCodeCamp Project
 
-![freeCodeCamp Logo](https://design-style-guide.freecodecamp.org/downloads/fcc_primary_large.jpg)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+[![freeCodeCamp Logo](https://design-style-guide.freecodecamp.org/downloads/fcc_primary_large.jpg)(https://www.freecodecamp.org/learn/)]
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)(https://www.w3schools.com/html/default.asp)]
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)(https://www.w3schools.com/css/default.asp)]
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://www.w3schools.com/js/)
 
 A responsive calorie tracking web app built with vanilla JavaScript as part of freeCodeCamp's curriculum.
 
